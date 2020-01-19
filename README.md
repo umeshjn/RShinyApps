@@ -6,16 +6,6 @@ _Shiny_ is an _R_ package that makes it easy to build interactive web apps strai
 
 <br>
 
-### [Global Terrorism Dashboard](https://umeshjn.shinyapps.io/GlobalTerror19702015-ShinyDashboard/)
-
---------------------------------------------
-
-World over the act of terror has killed countless and which is continuing even today. This dashboard gives you high level view of the atrocities across the world.
-
-![](/images/GlobalTerrorism.PNG)
-
-<br>
-
 ### [US Consumer Financial Complaints](https://umeshjn.shinyapps.io/usconsumerfinancialcomplaints/)
 
 ----------------------------------------------
@@ -44,3 +34,13 @@ Crimes in Chicago was one of the hottest topics during the 2016 Presidential Ele
 Crimes in Chicago was one of the hottest topics during the 2016 Presidential Elections. This dataset has details of the crimes from 2012 to 2016. Here is a dashboard built using the open dataset provided by the government agencies.
 
 ![](/images/ChicagoCrimes2012-2016.PNG)
+
+<br>
+
+### [Global Terrorism Dashboard](https://umeshjn.shinyapps.io/GlobalTerror19702015-ShinyDashboard/)
+
+--------------------------------------------
+
+World over the act of terror has killed countless and which is continuing even today. This dashboard gives you high level view of the atrocities across the world.
+
+![](/images/GlobalTerrorism.PNG)
