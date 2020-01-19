@@ -12,7 +12,7 @@ _Shiny_ is an _R_ package that makes it easy to build interactive web apps strai
 
 World over the act of terror has killed countless and which is continuing even today. This dashboard gives you high level view of the atrocities across the world.
 
-<img align="center" src="GlobalTerrorism.png" />
+<img align="center" src="./GlobalTerrorism.png" />
 
 <br>
 
@@ -22,7 +22,7 @@ World over the act of terror has killed countless and which is continuing even t
 
 Consumer complaints across different financial products is recorded and tracked by the government agencies for making sure the financial firms provide the right service to the customers. This dashboard gives you sneak peak into those complaints.
 
-<img align="center" src="USConsumerFinancialComplaints.png" />
+<img align="center" src="./USConsumerFinancialComplaints.png" />
 
 <br>
 
@@ -32,7 +32,7 @@ Consumer complaints across different financial products is recorded and tracked 
 
 Crimes in Chicago was one of the hottest topics during the 2016 Presidential Elections. Here is a dashboard built using the open dataset provided by the government agencies.
 
-<img align="center" src="ChicagoCrime2016.png" />
+<img align="center" src="./ChicagoCrime2016.png" />
 
 <br>
 
@@ -42,4 +42,4 @@ Crimes in Chicago was one of the hottest topics during the 2016 Presidential Ele
 
 Crimes in Chicago was one of the hottest topics during the 2016 Presidential Elections. This dataset has details of the crimes from 2012 to 2016. Here is a dashboard built using the open dataset provided by the government agencies.
 
-<img align="center" src="ChicagoCrimes2012-2016.png" />
+<img align="center" src="./ChicagoCrimes2012-2016.png" />
