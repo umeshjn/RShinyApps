@@ -6,6 +6,16 @@ _Shiny_ is an _R_ package that makes it easy to build interactive web apps strai
 
 <br>
 
+### Australian Population
+
+----------------------------------------------
+
+Australia is the largest country in Oceania and the world's sixth-largest country by total area. This application lets you explore the population of the continent among different age groups. This data is from Australian Bureau of Satistics.
+
+![](/images/AustralianPopulation.PNG)
+
+<br>
+
 ### [US Consumer Financial Complaints](https://umeshjn.shinyapps.io/usconsumerfinancialcomplaints/)
 
 ----------------------------------------------
