@@ -6,6 +6,16 @@ _Shiny_ is an _R_ package that makes it easy to build interactive web apps strai
 
 <br>
 
+### Unemployment Rates in USA from 1990 to 2016
+
+----------------------------------------------
+
+Unemployment is the biggest issues faced by majority of the countries in the world. This application lets you explore the unemployment rates across USA at the county level.
+
+![](/images/unemployment.PNG)
+
+<br>
+
 ### Australian Population
 
 ----------------------------------------------
