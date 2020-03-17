@@ -57,10 +57,3 @@ Crimes in Chicago was one of the hottest topics during the 2016 Presidential Ele
 
 <br>
 
-### [Global Terrorism Dashboard](https://umeshjn.shinyapps.io/GlobalTerror19702015-ShinyDashboard/)
-
---------------------------------------------
-
-World over the act of terror has killed countless and which is continuing even today. This dashboard gives you high level view of the atrocities across the world.
-
-![](/images/GlobalTerrorism.PNG)
