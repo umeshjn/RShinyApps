@@ -57,3 +57,17 @@ Crimes in Chicago was one of the hottest topics during the 2016 Presidential Ele
 
 <br>
 
+## [Covid Tracker By States - USA](https://covid19tracking.shinyapps.io/Covid19USAStatesandCounties/)
+
+Application lets you to interactively explore the Coronavirus cases and deaths in every county of the selected state.
+
+![](/images/Covid19USAStatesandCounties.PNG)
+
+<br>
+
+
+## [Covid Cases and Deaths - USA](https://covid19tracking.shinyapps.io/Covid19_USA_Numbers)
+
+This application lets you to view the Covid Cases and Deaths at country level through interactive visuals
+
+![](/images/Covid19_USA_Numbers.PNG)
