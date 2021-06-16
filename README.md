@@ -16,13 +16,22 @@ Unemployment is the biggest issues faced by majority of the countries in the wor
 
 <br>
 
-### Australian Population
-
+### [Covid Tracker By States - USA](https://covid19tracking.shinyapps.io/Covid19USAStatesandCounties/)
 ----------------------------------------------
 
-Australia is the largest country in Oceania and the world's sixth-largest country by total area. This application lets you explore the population of the continent among different age groups. This data is from Australian Bureau of Satistics.
+Application lets you to interactively explore the Coronavirus cases and deaths in every county of the selected state.
 
-![](/images/AustralianPopulation.PNG)
+![](/images/Covid19USAStatesandCounties.PNG)
+
+<br>
+
+
+### [Covid Cases and Deaths - USA](https://covid19tracking.shinyapps.io/Covid19_USA_Numbers)
+----------------------------------------------
+
+This application lets you to view the Covid Cases and Deaths at country level through interactive visuals
+
+![](/images/Covid19_USA_Numbers.PNG)
 
 <br>
 
@@ -57,17 +66,14 @@ Crimes in Chicago was one of the hottest topics during the 2016 Presidential Ele
 
 <br>
 
-## [Covid Tracker By States - USA](https://covid19tracking.shinyapps.io/Covid19USAStatesandCounties/)
+### Australian Population
 
-Application lets you to interactively explore the Coronavirus cases and deaths in every county of the selected state.
+----------------------------------------------
 
-![](/images/Covid19USAStatesandCounties.PNG)
+Australia is the largest country in Oceania and the world's sixth-largest country by total area. This application lets you explore the population of the continent among different age groups. This data is from Australian Bureau of Satistics.
+
+![](/images/AustralianPopulation.PNG)
 
 <br>
 
 
-## [Covid Cases and Deaths - USA](https://covid19tracking.shinyapps.io/Covid19_USA_Numbers)
-
-This application lets you to view the Covid Cases and Deaths at country level through interactive visuals
-
-![](/images/Covid19_USA_Numbers.PNG)
